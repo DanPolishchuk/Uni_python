@@ -1,0 +1,1 @@
+import re; user_text = input("Type your text here: "); match = re.findall(r'[а-яА-Яa-zA-Z]+', user_text); print(len(match), "words were found")if match else print("0 words were found")
