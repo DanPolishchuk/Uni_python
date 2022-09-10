@@ -1,12 +1,6 @@
-import re;
+import re; user_text = input("Type your text : "); match = re.findall(r"\b\w", user_text)
 
-user_text = input("Type your text : ")
-
-match = re.findall(r"\b\D", user_text)
-
-i = 0
-while i < (len(match)-1):
-    match[0] += match[i+1]
-    i += 1
+for i in range(1, len(match)):
+    match[0] += (match[i])
 
 print(match[0].upper())
