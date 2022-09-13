@@ -4,12 +4,12 @@ text = "Дуже поширена помилка помилка - це лише 
 
 match = re.findall(r"[\w?.-]+", text)
 
-mylist = []
-
-for i in range(len(match) - 1):
-    if match[i] != match[i+1]:
-        mylist.append(match[i])
+for i in range(len(match)-5):
+    match1 = re.findall(r"\w+", match[i])
+    match2 = re.findall(r"\w+", match[i+1])
+    if match1 == match2:
+        match.pop(i)
 
 print(text)
 
-print(*mylist)
+print(*match)
