@@ -38,12 +38,4 @@ def func(path, type1, type2):
                 with open(path+"/task.txt", "a") as file1:
                     file1.write(i)
         os.startfile(path+"/task.txt")
-    if type1 == ".dat" and type2 == ".csv":
-        with open(path+"/task.dat", "rb") as file:
-            content = pickle.load(file)
-            for i in content:
-                with open(path + "/task.csv", "w", newline="") as file1:
-                    writer = csv.writer(file1)
-                    writer.writerows(i)
-        os.startfile(path + "/task.csv")
-func("c:/lab4", ".txt", ".dat")
+func("C:/lab4", ".txt", ".csv")
