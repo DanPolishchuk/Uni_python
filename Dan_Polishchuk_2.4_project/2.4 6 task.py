@@ -29,7 +29,7 @@ def func(path, type1, type2):
             for row in content:
                 with open(path+"/task.txt", "a") as file1:
                     for i in range(len(row)):
-                        file1.write(row[i])
+                        file1.write(row[i] + " ")
         os.startfile(path+"/task.txt")
     if type1 == ".dat" and type2 == ".txt":
         with open(path+"/task.dat", "rb") as file:
@@ -38,4 +38,4 @@ def func(path, type1, type2):
                 with open(path+"/task.txt", "a") as file1:
                     file1.write(i)
         os.startfile(path+"/task.txt")
-func("C:/lab4", ".txt", ".csv")
+func("C:/lab4", ".csv", ".txt")
