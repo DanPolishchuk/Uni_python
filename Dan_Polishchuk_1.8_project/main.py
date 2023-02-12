@@ -210,4 +210,8 @@ class Set:
             else:
                 self.bill += (self.adapter.animal.price/3)
         print("Amount to be paid - ", round(self.bill), "UAH")
-Dan = Customer(); Dan.order()
+
+
+Dan = Customer()
+Dan.order()
+

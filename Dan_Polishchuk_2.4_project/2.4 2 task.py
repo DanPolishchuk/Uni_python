@@ -1,5 +1,7 @@
 import shelve
-class RPG_character():
+
+
+class RPG_character:
     def __init__(self, name, HP, race, fighting_style, side, inventory):
         self.name = input("Name: ")
         self.HP = input("HP: ")
@@ -17,6 +19,7 @@ class RPG_character():
             specs["Side"] = self.side
             specs["Inventory"] = self.inventory
         print(self.name, self.HP, self.race, self.fighting_style, self.side, self.inventory)
+
     def load(self):
         choice = input("Would you like to change specs: ")
         if choice == "yes":
@@ -28,9 +31,12 @@ class RPG_character():
             self.side = input("Side: ")
             self.inventory = [input("Main weapon: "), input("Additional weapon: "), input("Armor: ")]
             RPG_character.save(self)
+
     def clear(self):
         with shelve.open("c:/lab4/specs", "n") as specs:
             specs.clear()
-Character = RPG_character("","","","","","")
+
+
+Character = RPG_character("", "", "", "", "", "")
 Character.save()
 Character.load()
