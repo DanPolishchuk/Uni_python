@@ -1,3 +1,4 @@
+import sqlite3
 from sqlite3 import connect, OperationalError
 from pandas import read_csv
 
@@ -10,7 +11,8 @@ class DB:
         self.cur = self.conn.cursor()
         self.df = read_csv(self.file_path, index_col=0)
 
-    def get_value_txt(self, item):
+    @staticmethod
+    def get_value_txt(item):
         info = item.strip().split(",")
         return info
 
@@ -60,5 +62,22 @@ csv_file = "C:\\Uni_tasks\\Dan_Polishchuk_3.2_project\\IMD_Top_100.csv"
 txt_db = "C:\\Uni_tasks\\Dan_Polishchuk_3.2_project\\NBA_MVPs.db"
 csv_db = "C:\\Uni_tasks\\Dan_Polishchuk_3.2_project\\IMD_Top_100.db"
 
-Digga = DB(csv_file, csv_db)
-Digga.type_definition()
+
+if __name__ == "__main__":
+
+    try:
+        Digga = DB(csv_file, csv_db)
+        Digga.type_definition()
+
+    except ValueError as e:
+        print(e)
+
+    except TypeError as e:
+        print(e)
+
+    except IndexError as e:
+        print(e)
+
+    except sqlite3.OperationalError as e:
+        print(e)
+
