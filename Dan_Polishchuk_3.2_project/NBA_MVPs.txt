@@ -1,0 +1,11 @@
+2012,LeBron James,SF,Cleveland Cavaliers,27,USA
+2013,LeBron James,F,Cleveland Cavaliers,28,USA
+2014,Kevin Durant,F,Oklahoma City Thunder,25,USA
+2015,Stephen Curry,G,Golden State Warriors,27,USA
+2016,Stephen Curry,G,Golden State Warriors,28,USA
+2017, Russell Westbrook,G,Oklahoma City Thunder,27,USA
+2018,James Harden,G,Houston Rockets,28,USA
+2019,Giannis Antetokounmpo,F,Milwaukee Bucks,24,Greece
+2020,Giannis Antetokounmpo,F,Milwaukee Bucks,25,Greece
+2021,Nikola Jokic,C,Denver Nuggets,26,Serbia
+2022,Nikola Jokic,C,Denver Nuggets,27,Serbia

@@ -1,0 +1,2401 @@
+
+Afghanistan - 208771.0
+Albania - 334229.0
+Algeria - 271406.0
+Andorra - 47860.0
+Angola - 105184.0
+Anguilla - 3904.0
+Antigua and Barbuda - 9106.0
+Argentina - 10040329.0
+Armenia - 446332.0
+Aruba - 44145.0
+Australia - 11327900.0
+Austria - 5812712.0
+Azerbaijan - 828174.0
+Bahamas - 37491.0
+Bahrain - 700835.0
+Bangladesh - 2037655.0
+Barbados - 106434.0
+Belarus - 994037.0
+Belgium - 4700949.0
+Belize - 70697.0
+Benin - 27990.0
+Bermuda - 18785.0
+Bhutan - 62608.0
+Bolivia - 1190511.0
+Bonaire Sint Eustatius and Saba - 11797.0
+Bosnia and Herzegovina - 401465.0
+Botswana - 329494.0
+Brazil - 36905201.0
+British Virgin Islands - 7305.0
+Brunei - 276825.0
+Bulgaria - 1295789.0
+Burkina Faso - 22025.0
+Burundi - 53574.0
+Cambodia - 138700.0
+Cameroon - 123993.0
+Canada - 4578306.0
+Cape Verde - 63235.0
+Cayman Islands - 31472.0
+Central African Republic - 15368.0
+Chad - 7652.0
+Chile - 5133941.0
+China - 2023904.0
+Colombia - 6355637.0
+Comoros - 8992.0
+Congo - 25375.0
+Cook Islands - 7020.0
+Costa Rica - 1190377.0
+Cote d'Ivoire - 88037.0
+Croatia - 1268067.0
+Cuba - 1112502.0
+Curacao - 45986.0
+Cyprus - 644160.0
+Czechia - 4593923.0
+Democratic Republic of Congo - 95585.0
+Denmark - 3401091.0
+Djibouti - 15690.0
+Dominica - 15760.0
+Dominican Republic - 660339.0
+Ecuador - 1052007.0
+Egypt - 515666.0
+El Salvador - 201785.0
+England - None
+Equatorial Guinea - 17212.0
+Eritrea - 10189.0
+Estonia - 614215.0
+Eswatini - 74143.0
+Ethiopia - 499738.0
+European Union - 183217843.0
+Faeroe Islands - 34658.0
+Falkland Islands - 1930.0
+Fiji - 68864.0
+Finland - 1460857.0
+France - 39595844.0
+French Polynesia - 77957.0
+Gabon - 48981.0
+Gambia - 12586.0
+Georgia - 1818861.0
+Germany - 37893892.0
+Ghana - 171140.0
+Gibraltar - 20399.0
+Greece - 5548487.0
+Greenland - 11971.0
+Grenada - 19680.0
+Guam - None
+Guatemala - 1230934.0
+Guernsey - None
+Guinea - 38240.0
+Guinea-Bissau - 8947.0
+Guyana - 73003.0
+Haiti - 34076.0
+High income - 428672371.0
+Honduras - 471224.0
+Hong Kong - 2876106.0
+Hungary - 2193272.0
+Iceland - 208839.0
+India - 44685087.0
+Indonesia - 6732179.0
+Iran - 7565253.0
+Iraq - 2465545.0
+Ireland - 1701617.0
+Isle of Man - 38008.0
+Israel - 4790244.0
+Italy - 25488166.0
+Jamaica - 153905.0
+Japan - 32901767.0
+Jersey - None
+Jordan - 1746997.0
+Kazakhstan - 1496549.0
+Kenya - 342817.0
+Kiribati - 5008.0
+Kosovo - 272675.0
+Kuwait - 662858.0
+Kyrgyzstan - 206599.0
+Laos - 217998.0
+Latvia - 975556.0
+Lebanon - 1229915.0
+Lesotho - 34790.0
+Liberia - 8065.0
+Libya - 507166.0
+Liechtenstein - 21372.0
+Lithuania - 1299273.0
+Low income - 2283856.0
+Lower middle income - 97112763.0
+Luxembourg - 315268.0
+Macao - 3547.0
+Madagascar - 67842.0
+Malawi - 88559.0
+Malaysia - 5038812.0
+Maldives - 185721.0
+Mali - 32818.0
+Malta - 117166.0
+Marshall Islands - 15584.0
+Mauritania - 63667.0
+Mauritius - 294915.0
+Mexico - 7400848.0
+Micronesia (country) - 22676.0
+Moldova - 599578.0
+Monaco - 16095.0
+Mongolia - 1007886.0
+Montenegro - 286729.0
+Montserrat - 1403.0
+Morocco - 1272323.0
+Mozambique - 232819.0
+Myanmar - 633859.0
+Namibia - 170741.0
+Nauru - 4815.0
+Nepal - 1001110.0
+Netherlands - 8595902.0
+New Caledonia - 79996.0
+New Zealand - 2191962.0
+Nicaragua - 15612.0
+Niger - 9508.0
+Nigeria - 266463.0
+Niue - None
+North Korea - 1.0
+North Macedonia - 346533.0
+Northern Cyprus - None
+Northern Ireland - None
+Northern Mariana Islands - None
+Norway - 1478247.0
+Oman - 399449.0
+Pakistan - 1576464.0
+Palau - 5987.0
+Palestine - 703228.0
+Panama - 1030214.0
+Papua New Guinea - 46776.0
+Paraguay - 806662.0
+Peru - 4483236.0
+Philippines - 4074299.0
+Pitcairn - None
+Poland - 6387048.0
+Portugal - 5564925.0
+Puerto Rico - None
+Qatar - 492925.0
+Romania - 3327805.0
+Russia - 21725309.0
+Rwanda - 133090.0
+Saint Helena - 2166.0
+Saint Kitts and Nevis - 6592.0
+Saint Lucia - 29882.0
+Saint Pierre and Miquelon - 3452.0
+Saint Vincent and the Grenadines - 9587.0
+Samoa - 16109.0
+San Marino - 23468.0
+Sao Tome and Principe - 6280.0
+Saudi Arabia - 828410.0
+Scotland - None
+Senegal - 88902.0
+Serbia - 2477970.0
+Seychelles - 50665.0
+Sierra Leone - 7760.0
+Singapore - 2220999.0
+Sint Maarten (Dutch part) - None
+Slovakia - 2661944.0
+Slovenia - 1323216.0
+Solomon Islands - 24575.0
+Somalia - 27322.0
+South Africa - 4057211.0
+South Korea - 30325483.0
+South Sudan - 18368.0
+Spain - 13740531.0
+Sri Lanka - 672005.0
+Sudan - 63759.0
+Suriname - 82227.0
+Sweden - 2696168.0
+Switzerland - 4408833.0
+Syria - 57453.0
+Taiwan - 9754006.0
+Tajikistan - 17786.0
+Tanzania - 42717.0
+Thailand - 4727236.0
+Timor - 23416.0
+Togo - 39358.0
+Tokelau - None
+Tonga - 16795.0
+Trinidad and Tobago - 187908.0
+Tunisia - 1150477.0
+Turkey - 17042722.0
+Turkmenistan - None
+Turks and Caicos Islands - 6537.0
+Tuvalu - 2828.0
+Uganda - 170400.0
+Ukraine - 5686636.0
+United Arab Emirates - 1050127.0
+United Kingdom - 24315983.0
+United States - 102830381.0
+United States Virgin Islands - None
+Upper middle income - 144335408.0
+Uruguay - 1033265.0
+Uzbekistan - 250717.0
+Vanuatu - 12014.0
+Vatican - 29.0
+Venezuela - 551673.0
+Vietnam - 11526627.0
+Wales - None
+Wallis and Futuna - 3427.0
+Western Sahara - None
+Yemen - 11945.0
+Zambia - 342114.0
+Zimbabwe - 263083.0
+Afghanistan - 208771.0
+Albania - 334229.0
+Algeria - 271406.0
+Andorra - 47860.0
+Angola - 105184.0
+Anguilla - 3904.0
+Antigua and Barbuda - 9106.0
+Argentina - 10040329.0
+Armenia - 446332.0
+Aruba - 44145.0
+Australia - 11327900.0
+Austria - 5812712.0
+Azerbaijan - 828174.0
+Bahamas - 37491.0
+Bahrain - 700835.0
+Bangladesh - 2037655.0
+Barbados - 106434.0
+Belarus - 994037.0
+Belgium - 4700949.0
+Belize - 70697.0
+Benin - 27990.0
+Bermuda - 18785.0
+Bhutan - 62608.0
+Bolivia - 1190511.0
+Bonaire Sint Eustatius and Saba - 11797.0
+Bosnia and Herzegovina - 401465.0
+Botswana - 329494.0
+Brazil - 36905201.0
+British Virgin Islands - 7305.0
+Brunei - 276825.0
+Bulgaria - 1295789.0
+Burkina Faso - 22025.0
+Burundi - 53574.0
+Cambodia - 138700.0
+Cameroon - 123993.0
+Canada - 4578306.0
+Cape Verde - 63235.0
+Cayman Islands - 31472.0
+Central African Republic - 15368.0
+Chad - 7652.0
+Chile - 5133941.0
+China - 2023904.0
+Colombia - 6355637.0
+Comoros - 8992.0
+Congo - 25375.0
+Cook Islands - 7020.0
+Costa Rica - 1190377.0
+Cote d'Ivoire - 88037.0
+Croatia - 1268067.0
+Cuba - 1112502.0
+Curacao - 45986.0
+Cyprus - 644160.0
+Czechia - 4593923.0
+Democratic Republic of Congo - 95585.0
+Denmark - 3401091.0
+Djibouti - 15690.0
+Dominica - 15760.0
+Dominican Republic - 660339.0
+Ecuador - 1052007.0
+Egypt - 515666.0
+El Salvador - 201785.0
+England - None
+Equatorial Guinea - 17212.0
+Eritrea - 10189.0
+Estonia - 614215.0
+Eswatini - 74143.0
+Ethiopia - 499738.0
+European Union - 183217843.0
+Faeroe Islands - 34658.0
+Falkland Islands - 1930.0
+Fiji - 68864.0
+Finland - 1460857.0
+France - 39595844.0
+French Polynesia - 77957.0
+Gabon - 48981.0
+Gambia - 12586.0
+Georgia - 1818861.0
+Germany - 37893892.0
+Ghana - 171140.0
+Gibraltar - 20399.0
+Greece - 5548487.0
+Greenland - 11971.0
+Grenada - 19680.0
+Guam - None
+Guatemala - 1230934.0
+Guernsey - None
+Guinea - 38240.0
+Guinea-Bissau - 8947.0
+Guyana - 73003.0
+Haiti - 34076.0
+High income - 428672371.0
+Honduras - 471224.0
+Hong Kong - 2876106.0
+Hungary - 2193272.0
+Iceland - 208839.0
+India - 44685087.0
+Indonesia - 6732179.0
+Iran - 7565253.0
+Iraq - 2465545.0
+Ireland - 1701617.0
+Isle of Man - 38008.0
+Israel - 4790244.0
+Italy - 25488166.0
+Jamaica - 153905.0
+Japan - 32901767.0
+Jersey - None
+Jordan - 1746997.0
+Kazakhstan - 1496549.0
+Kenya - 342817.0
+Kiribati - 5008.0
+Kosovo - 272675.0
+Kuwait - 662858.0
+Kyrgyzstan - 206599.0
+Laos - 217998.0
+Latvia - 975556.0
+Lebanon - 1229915.0
+Lesotho - 34790.0
+Liberia - 8065.0
+Libya - 507166.0
+Liechtenstein - 21372.0
+Lithuania - 1299273.0
+Low income - 2283856.0
+Lower middle income - 97112763.0
+Luxembourg - 315268.0
+Macao - 3547.0
+Madagascar - 67842.0
+Malawi - 88559.0
+Malaysia - 5038812.0
+Maldives - 185721.0
+Mali - 32818.0
+Malta - 117166.0
+Marshall Islands - 15584.0
+Mauritania - 63667.0
+Mauritius - 294915.0
+Mexico - 7400848.0
+Micronesia (country) - 22676.0
+Moldova - 599578.0
+Monaco - 16095.0
+Mongolia - 1007886.0
+Montenegro - 286729.0
+Montserrat - 1403.0
+Morocco - 1272323.0
+Mozambique - 232819.0
+Myanmar - 633859.0
+Namibia - 170741.0
+Nauru - 4815.0
+Nepal - 1001110.0
+Netherlands - 8595902.0
+New Caledonia - 79996.0
+New Zealand - 2191962.0
+Nicaragua - 15612.0
+Niger - 9508.0
+Nigeria - 266463.0
+Niue - None
+North Korea - 1.0
+North Macedonia - 346533.0
+Northern Cyprus - None
+Northern Ireland - None
+Northern Mariana Islands - None
+Norway - 1478247.0
+Oman - 399449.0
+Pakistan - 1576464.0
+Palau - 5987.0
+Palestine - 703228.0
+Panama - 1030214.0
+Papua New Guinea - 46776.0
+Paraguay - 806662.0
+Peru - 4483236.0
+Philippines - 4074299.0
+Pitcairn - None
+Poland - 6387048.0
+Portugal - 5564925.0
+Puerto Rico - None
+Qatar - 492925.0
+Romania - 3327805.0
+Russia - 21725309.0
+Rwanda - 133090.0
+Saint Helena - 2166.0
+Saint Kitts and Nevis - 6592.0
+Saint Lucia - 29882.0
+Saint Pierre and Miquelon - 3452.0
+Saint Vincent and the Grenadines - 9587.0
+Samoa - 16109.0
+San Marino - 23468.0
+Sao Tome and Principe - 6280.0
+Saudi Arabia - 828410.0
+Scotland - None
+Senegal - 88902.0
+Serbia - 2477970.0
+Seychelles - 50665.0
+Sierra Leone - 7760.0
+Singapore - 2220999.0
+Sint Maarten (Dutch part) - None
+Slovakia - 2661944.0
+Slovenia - 1323216.0
+Solomon Islands - 24575.0
+Somalia - 27322.0
+South Africa - 4057211.0
+South Korea - 30325483.0
+South Sudan - 18368.0
+Spain - 13740531.0
+Sri Lanka - 672005.0
+Sudan - 63759.0
+Suriname - 82227.0
+Sweden - 2696168.0
+Switzerland - 4408833.0
+Syria - 57453.0
+Taiwan - 9754006.0
+Tajikistan - 17786.0
+Tanzania - 42717.0
+Thailand - 4727236.0
+Timor - 23416.0
+Togo - 39358.0
+Tokelau - None
+Tonga - 16795.0
+Trinidad and Tobago - 187908.0
+Tunisia - 1150477.0
+Turkey - 17042722.0
+Turkmenistan - None
+Turks and Caicos Islands - 6537.0
+Tuvalu - 2828.0
+Uganda - 170400.0
+Ukraine - 5686636.0
+United Arab Emirates - 1050127.0
+United Kingdom - 24315983.0
+United States - 102830381.0
+United States Virgin Islands - None
+Upper middle income - 144335408.0
+Uruguay - 1033265.0
+Uzbekistan - 250717.0
+Vanuatu - 12014.0
+Vatican - 29.0
+Venezuela - 551673.0
+Vietnam - 11526627.0
+Wales - None
+Wallis and Futuna - 3427.0
+Western Sahara - None
+Yemen - 11945.0
+Zambia - 342114.0
+Zimbabwe - 263083.0
+Afghanistan - 208771.0
+Albania - 334229.0
+Algeria - 271406.0
+Andorra - 47860.0
+Angola - 105184.0
+Anguilla - 3904.0
+Antigua and Barbuda - 9106.0
+Argentina - 10040329.0
+Armenia - 446332.0
+Aruba - 44145.0
+Australia - 11327900.0
+Austria - 5812712.0
+Azerbaijan - 828174.0
+Bahamas - 37491.0
+Bahrain - 700835.0
+Bangladesh - 2037655.0
+Barbados - 106434.0
+Belarus - 994037.0
+Belgium - 4700949.0
+Belize - 70697.0
+Benin - 27990.0
+Bermuda - 18785.0
+Bhutan - 62608.0
+Bolivia - 1190511.0
+Bonaire Sint Eustatius and Saba - 11797.0
+Bosnia and Herzegovina - 401465.0
+Botswana - 329494.0
+Brazil - 36905201.0
+British Virgin Islands - 7305.0
+Brunei - 276825.0
+Bulgaria - 1295789.0
+Burkina Faso - 22025.0
+Burundi - 53574.0
+Cambodia - 138700.0
+Cameroon - 123993.0
+Canada - 4578306.0
+Cape Verde - 63235.0
+Cayman Islands - 31472.0
+Central African Republic - 15368.0
+Chad - 7652.0
+Chile - 5133941.0
+China - 2023904.0
+Colombia - 6355637.0
+Comoros - 8992.0
+Congo - 25375.0
+Cook Islands - 7020.0
+Costa Rica - 1190377.0
+Cote d'Ivoire - 88037.0
+Croatia - 1268067.0
+Cuba - 1112502.0
+Curacao - 45986.0
+Cyprus - 644160.0
+Czechia - 4593923.0
+Democratic Republic of Congo - 95585.0
+Denmark - 3401091.0
+Djibouti - 15690.0
+Dominica - 15760.0
+Dominican Republic - 660339.0
+Ecuador - 1052007.0
+Egypt - 515666.0
+El Salvador - 201785.0
+England - None
+Equatorial Guinea - 17212.0
+Eritrea - 10189.0
+Estonia - 614215.0
+Eswatini - 74143.0
+Ethiopia - 499738.0
+European Union - 183217843.0
+Faeroe Islands - 34658.0
+Falkland Islands - 1930.0
+Fiji - 68864.0
+Finland - 1460857.0
+France - 39595844.0
+French Polynesia - 77957.0
+Gabon - 48981.0
+Gambia - 12586.0
+Georgia - 1818861.0
+Germany - 37893892.0
+Ghana - 171140.0
+Gibraltar - 20399.0
+Greece - 5548487.0
+Greenland - 11971.0
+Grenada - 19680.0
+Guam - None
+Guatemala - 1230934.0
+Guernsey - None
+Guinea - 38240.0
+Guinea-Bissau - 8947.0
+Guyana - 73003.0
+Haiti - 34076.0
+High income - 428672371.0
+Honduras - 471224.0
+Hong Kong - 2876106.0
+Hungary - 2193272.0
+Iceland - 208839.0
+India - 44685087.0
+Indonesia - 6732179.0
+Iran - 7565253.0
+Iraq - 2465545.0
+Ireland - 1701617.0
+Isle of Man - 38008.0
+Israel - 4790244.0
+Italy - 25488166.0
+Jamaica - 153905.0
+Japan - 32901767.0
+Jersey - None
+Jordan - 1746997.0
+Kazakhstan - 1496549.0
+Kenya - 342817.0
+Kiribati - 5008.0
+Kosovo - 272675.0
+Kuwait - 662858.0
+Kyrgyzstan - 206599.0
+Laos - 217998.0
+Latvia - 975556.0
+Lebanon - 1229915.0
+Lesotho - 34790.0
+Liberia - 8065.0
+Libya - 507166.0
+Liechtenstein - 21372.0
+Lithuania - 1299273.0
+Low income - 2283856.0
+Lower middle income - 97112763.0
+Luxembourg - 315268.0
+Macao - 3547.0
+Madagascar - 67842.0
+Malawi - 88559.0
+Malaysia - 5038812.0
+Maldives - 185721.0
+Mali - 32818.0
+Malta - 117166.0
+Marshall Islands - 15584.0
+Mauritania - 63667.0
+Mauritius - 294915.0
+Mexico - 7400848.0
+Micronesia (country) - 22676.0
+Moldova - 599578.0
+Monaco - 16095.0
+Mongolia - 1007886.0
+Montenegro - 286729.0
+Montserrat - 1403.0
+Morocco - 1272323.0
+Mozambique - 232819.0
+Myanmar - 633859.0
+Namibia - 170741.0
+Nauru - 4815.0
+Nepal - 1001110.0
+Netherlands - 8595902.0
+New Caledonia - 79996.0
+New Zealand - 2191962.0
+Nicaragua - 15612.0
+Niger - 9508.0
+Nigeria - 266463.0
+Niue - None
+North Korea - 1.0
+North Macedonia - 346533.0
+Northern Cyprus - None
+Northern Ireland - None
+Northern Mariana Islands - None
+Norway - 1478247.0
+Oman - 399449.0
+Pakistan - 1576464.0
+Palau - 5987.0
+Palestine - 703228.0
+Panama - 1030214.0
+Papua New Guinea - 46776.0
+Paraguay - 806662.0
+Peru - 4483236.0
+Philippines - 4074299.0
+Pitcairn - None
+Poland - 6387048.0
+Portugal - 5564925.0
+Puerto Rico - None
+Qatar - 492925.0
+Romania - 3327805.0
+Russia - 21725309.0
+Rwanda - 133090.0
+Saint Helena - 2166.0
+Saint Kitts and Nevis - 6592.0
+Saint Lucia - 29882.0
+Saint Pierre and Miquelon - 3452.0
+Saint Vincent and the Grenadines - 9587.0
+Samoa - 16109.0
+San Marino - 23468.0
+Sao Tome and Principe - 6280.0
+Saudi Arabia - 828410.0
+Scotland - None
+Senegal - 88902.0
+Serbia - 2477970.0
+Seychelles - 50665.0
+Sierra Leone - 7760.0
+Singapore - 2220999.0
+Sint Maarten (Dutch part) - None
+Slovakia - 2661944.0
+Slovenia - 1323216.0
+Solomon Islands - 24575.0
+Somalia - 27322.0
+South Africa - 4057211.0
+South Korea - 30325483.0
+South Sudan - 18368.0
+Spain - 13740531.0
+Sri Lanka - 672005.0
+Sudan - 63759.0
+Suriname - 82227.0
+Sweden - 2696168.0
+Switzerland - 4408833.0
+Syria - 57453.0
+Taiwan - 9754006.0
+Tajikistan - 17786.0
+Tanzania - 42717.0
+Thailand - 4727236.0
+Timor - 23416.0
+Togo - 39358.0
+Tokelau - None
+Tonga - 16795.0
+Trinidad and Tobago - 187908.0
+Tunisia - 1150477.0
+Turkey - 17042722.0
+Turkmenistan - None
+Turks and Caicos Islands - 6537.0
+Tuvalu - 2828.0
+Uganda - 170400.0
+Ukraine - 5686636.0
+United Arab Emirates - 1050127.0
+United Kingdom - 24315983.0
+United States - 102830381.0
+United States Virgin Islands - None
+Upper middle income - 144335408.0
+Uruguay - 1033265.0
+Uzbekistan - 250717.0
+Vanuatu - 12014.0
+Vatican - 29.0
+Venezuela - 551673.0
+Vietnam - 11526627.0
+Wales - None
+Wallis and Futuna - 3427.0
+Western Sahara - None
+Yemen - 11945.0
+Zambia - 342114.0
+Zimbabwe - 263083.0
+Afghanistan - 208771.0
+Albania - 334229.0
+Algeria - 271406.0
+Andorra - 47860.0
+Angola - 105184.0
+Anguilla - 3904.0
+Antigua and Barbuda - 9106.0
+Argentina - 10040329.0
+Armenia - 446332.0
+Aruba - 44145.0
+Australia - 11327900.0
+Austria - 5812712.0
+Azerbaijan - 828174.0
+Bahamas - 37491.0
+Bahrain - 700835.0
+Bangladesh - 2037655.0
+Barbados - 106434.0
+Belarus - 994037.0
+Belgium - 4700949.0
+Belize - 70697.0
+Benin - 27990.0
+Bermuda - 18785.0
+Bhutan - 62608.0
+Bolivia - 1190511.0
+Bonaire Sint Eustatius and Saba - 11797.0
+Bosnia and Herzegovina - 401465.0
+Botswana - 329494.0
+Brazil - 36905201.0
+British Virgin Islands - 7305.0
+Brunei - 276825.0
+Bulgaria - 1295789.0
+Burkina Faso - 22025.0
+Burundi - 53574.0
+Cambodia - 138700.0
+Cameroon - 123993.0
+Canada - 4578306.0
+Cape Verde - 63235.0
+Cayman Islands - 31472.0
+Central African Republic - 15368.0
+Chad - 7652.0
+Chile - 5133941.0
+China - 2023904.0
+Colombia - 6355637.0
+Comoros - 8992.0
+Congo - 25375.0
+Cook Islands - 7020.0
+Costa Rica - 1190377.0
+Cote d'Ivoire - 88037.0
+Croatia - 1268067.0
+Cuba - 1112502.0
+Curacao - 45986.0
+Cyprus - 644160.0
+Czechia - 4593923.0
+Democratic Republic of Congo - 95585.0
+Denmark - 3401091.0
+Djibouti - 15690.0
+Dominica - 15760.0
+Dominican Republic - 660339.0
+Ecuador - 1052007.0
+Egypt - 515666.0
+El Salvador - 201785.0
+England - None
+Equatorial Guinea - 17212.0
+Eritrea - 10189.0
+Estonia - 614215.0
+Eswatini - 74143.0
+Ethiopia - 499738.0
+European Union - 183217843.0
+Faeroe Islands - 34658.0
+Falkland Islands - 1930.0
+Fiji - 68864.0
+Finland - 1460857.0
+France - 39595844.0
+French Polynesia - 77957.0
+Gabon - 48981.0
+Gambia - 12586.0
+Georgia - 1818861.0
+Germany - 37893892.0
+Ghana - 171140.0
+Gibraltar - 20399.0
+Greece - 5548487.0
+Greenland - 11971.0
+Grenada - 19680.0
+Guam - None
+Guatemala - 1230934.0
+Guernsey - None
+Guinea - 38240.0
+Guinea-Bissau - 8947.0
+Guyana - 73003.0
+Haiti - 34076.0
+High income - 428672371.0
+Honduras - 471224.0
+Hong Kong - 2876106.0
+Hungary - 2193272.0
+Iceland - 208839.0
+India - 44685087.0
+Indonesia - 6732179.0
+Iran - 7565253.0
+Iraq - 2465545.0
+Ireland - 1701617.0
+Isle of Man - 38008.0
+Israel - 4790244.0
+Italy - 25488166.0
+Jamaica - 153905.0
+Japan - 32901767.0
+Jersey - None
+Jordan - 1746997.0
+Kazakhstan - 1496549.0
+Kenya - 342817.0
+Kiribati - 5008.0
+Kosovo - 272675.0
+Kuwait - 662858.0
+Kyrgyzstan - 206599.0
+Laos - 217998.0
+Latvia - 975556.0
+Lebanon - 1229915.0
+Lesotho - 34790.0
+Liberia - 8065.0
+Libya - 507166.0
+Liechtenstein - 21372.0
+Lithuania - 1299273.0
+Low income - 2283856.0
+Lower middle income - 97112763.0
+Luxembourg - 315268.0
+Macao - 3547.0
+Madagascar - 67842.0
+Malawi - 88559.0
+Malaysia - 5038812.0
+Maldives - 185721.0
+Mali - 32818.0
+Malta - 117166.0
+Marshall Islands - 15584.0
+Mauritania - 63667.0
+Mauritius - 294915.0
+Mexico - 7400848.0
+Micronesia (country) - 22676.0
+Moldova - 599578.0
+Monaco - 16095.0
+Mongolia - 1007886.0
+Montenegro - 286729.0
+Montserrat - 1403.0
+Morocco - 1272323.0
+Mozambique - 232819.0
+Myanmar - 633859.0
+Namibia - 170741.0
+Nauru - 4815.0
+Nepal - 1001110.0
+Netherlands - 8595902.0
+New Caledonia - 79996.0
+New Zealand - 2191962.0
+Nicaragua - 15612.0
+Niger - 9508.0
+Nigeria - 266463.0
+Niue - None
+North Korea - 1.0
+North Macedonia - 346533.0
+Northern Cyprus - None
+Northern Ireland - None
+Northern Mariana Islands - None
+Norway - 1478247.0
+Oman - 399449.0
+Pakistan - 1576464.0
+Palau - 5987.0
+Palestine - 703228.0
+Panama - 1030214.0
+Papua New Guinea - 46776.0
+Paraguay - 806662.0
+Peru - 4483236.0
+Philippines - 4074299.0
+Pitcairn - None
+Poland - 6387048.0
+Portugal - 5564925.0
+Puerto Rico - None
+Qatar - 492925.0
+Romania - 3327805.0
+Russia - 21725309.0
+Rwanda - 133090.0
+Saint Helena - 2166.0
+Saint Kitts and Nevis - 6592.0
+Saint Lucia - 29882.0
+Saint Pierre and Miquelon - 3452.0
+Saint Vincent and the Grenadines - 9587.0
+Samoa - 16109.0
+San Marino - 23468.0
+Sao Tome and Principe - 6280.0
+Saudi Arabia - 828410.0
+Scotland - None
+Senegal - 88902.0
+Serbia - 2477970.0
+Seychelles - 50665.0
+Sierra Leone - 7760.0
+Singapore - 2220999.0
+Sint Maarten (Dutch part) - None
+Slovakia - 2661944.0
+Slovenia - 1323216.0
+Solomon Islands - 24575.0
+Somalia - 27322.0
+South Africa - 4057211.0
+South Korea - 30325483.0
+South Sudan - 18368.0
+Spain - 13740531.0
+Sri Lanka - 672005.0
+Sudan - 63759.0
+Suriname - 82227.0
+Sweden - 2696168.0
+Switzerland - 4408833.0
+Syria - 57453.0
+Taiwan - 9754006.0
+Tajikistan - 17786.0
+Tanzania - 42717.0
+Thailand - 4727236.0
+Timor - 23416.0
+Togo - 39358.0
+Tokelau - None
+Tonga - 16795.0
+Trinidad and Tobago - 187908.0
+Tunisia - 1150477.0
+Turkey - 17042722.0
+Turkmenistan - None
+Turks and Caicos Islands - 6537.0
+Tuvalu - 2828.0
+Uganda - 170400.0
+Ukraine - 5686636.0
+United Arab Emirates - 1050127.0
+United Kingdom - 24315983.0
+United States - 102830381.0
+United States Virgin Islands - None
+Upper middle income - 144335408.0
+Uruguay - 1033265.0
+Uzbekistan - 250717.0
+Vanuatu - 12014.0
+Vatican - 29.0
+Venezuela - 551673.0
+Vietnam - 11526627.0
+Wales - None
+Wallis and Futuna - 3427.0
+Western Sahara - None
+Yemen - 11945.0
+Zambia - 342114.0
+Zimbabwe - 263083.0
+Afghanistan - 208771.0
+Albania - 334229.0
+Algeria - 271406.0
+Andorra - 47860.0
+Angola - 105184.0
+Anguilla - 3904.0
+Antigua and Barbuda - 9106.0
+Argentina - 10040329.0
+Armenia - 446332.0
+Aruba - 44145.0
+Australia - 11327900.0
+Austria - 5812712.0
+Azerbaijan - 828174.0
+Bahamas - 37491.0
+Bahrain - 700835.0
+Bangladesh - 2037655.0
+Barbados - 106434.0
+Belarus - 994037.0
+Belgium - 4700949.0
+Belize - 70697.0
+Benin - 27990.0
+Bermuda - 18785.0
+Bhutan - 62608.0
+Bolivia - 1190511.0
+Bonaire Sint Eustatius and Saba - 11797.0
+Bosnia and Herzegovina - 401465.0
+Botswana - 329494.0
+Brazil - 36905201.0
+British Virgin Islands - 7305.0
+Brunei - 276825.0
+Bulgaria - 1295789.0
+Burkina Faso - 22025.0
+Burundi - 53574.0
+Cambodia - 138700.0
+Cameroon - 123993.0
+Canada - 4578306.0
+Cape Verde - 63235.0
+Cayman Islands - 31472.0
+Central African Republic - 15368.0
+Chad - 7652.0
+Chile - 5133941.0
+China - 2023904.0
+Colombia - 6355637.0
+Comoros - 8992.0
+Congo - 25375.0
+Cook Islands - 7020.0
+Costa Rica - 1190377.0
+Cote d'Ivoire - 88037.0
+Croatia - 1268067.0
+Cuba - 1112502.0
+Curacao - 45986.0
+Cyprus - 644160.0
+Czechia - 4593923.0
+Democratic Republic of Congo - 95585.0
+Denmark - 3401091.0
+Djibouti - 15690.0
+Dominica - 15760.0
+Dominican Republic - 660339.0
+Ecuador - 1052007.0
+Egypt - 515666.0
+El Salvador - 201785.0
+England - None
+Equatorial Guinea - 17212.0
+Eritrea - 10189.0
+Estonia - 614215.0
+Eswatini - 74143.0
+Ethiopia - 499738.0
+European Union - 183217843.0
+Faeroe Islands - 34658.0
+Falkland Islands - 1930.0
+Fiji - 68864.0
+Finland - 1460857.0
+France - 39595844.0
+French Polynesia - 77957.0
+Gabon - 48981.0
+Gambia - 12586.0
+Georgia - 1818861.0
+Germany - 37893892.0
+Ghana - 171140.0
+Gibraltar - 20399.0
+Greece - 5548487.0
+Greenland - 11971.0
+Grenada - 19680.0
+Guam - None
+Guatemala - 1230934.0
+Guernsey - None
+Guinea - 38240.0
+Guinea-Bissau - 8947.0
+Guyana - 73003.0
+Haiti - 34076.0
+High income - 428672371.0
+Honduras - 471224.0
+Hong Kong - 2876106.0
+Hungary - 2193272.0
+Iceland - 208839.0
+India - 44685087.0
+Indonesia - 6732179.0
+Iran - 7565253.0
+Iraq - 2465545.0
+Ireland - 1701617.0
+Isle of Man - 38008.0
+Israel - 4790244.0
+Italy - 25488166.0
+Jamaica - 153905.0
+Japan - 32901767.0
+Jersey - None
+Jordan - 1746997.0
+Kazakhstan - 1496549.0
+Kenya - 342817.0
+Kiribati - 5008.0
+Kosovo - 272675.0
+Kuwait - 662858.0
+Kyrgyzstan - 206599.0
+Laos - 217998.0
+Latvia - 975556.0
+Lebanon - 1229915.0
+Lesotho - 34790.0
+Liberia - 8065.0
+Libya - 507166.0
+Liechtenstein - 21372.0
+Lithuania - 1299273.0
+Low income - 2283856.0
+Lower middle income - 97112763.0
+Luxembourg - 315268.0
+Macao - 3547.0
+Madagascar - 67842.0
+Malawi - 88559.0
+Malaysia - 5038812.0
+Maldives - 185721.0
+Mali - 32818.0
+Malta - 117166.0
+Marshall Islands - 15584.0
+Mauritania - 63667.0
+Mauritius - 294915.0
+Mexico - 7400848.0
+Micronesia (country) - 22676.0
+Moldova - 599578.0
+Monaco - 16095.0
+Mongolia - 1007886.0
+Montenegro - 286729.0
+Montserrat - 1403.0
+Morocco - 1272323.0
+Mozambique - 232819.0
+Myanmar - 633859.0
+Namibia - 170741.0
+Nauru - 4815.0
+Nepal - 1001110.0
+Netherlands - 8595902.0
+New Caledonia - 79996.0
+New Zealand - 2191962.0
+Nicaragua - 15612.0
+Niger - 9508.0
+Nigeria - 266463.0
+Niue - None
+North Korea - 1.0
+North Macedonia - 346533.0
+Northern Cyprus - None
+Northern Ireland - None
+Northern Mariana Islands - None
+Norway - 1478247.0
+Oman - 399449.0
+Pakistan - 1576464.0
+Palau - 5987.0
+Palestine - 703228.0
+Panama - 1030214.0
+Papua New Guinea - 46776.0
+Paraguay - 806662.0
+Peru - 4483236.0
+Philippines - 4074299.0
+Pitcairn - None
+Poland - 6387048.0
+Portugal - 5564925.0
+Puerto Rico - None
+Qatar - 492925.0
+Romania - 3327805.0
+Russia - 21725309.0
+Rwanda - 133090.0
+Saint Helena - 2166.0
+Saint Kitts and Nevis - 6592.0
+Saint Lucia - 29882.0
+Saint Pierre and Miquelon - 3452.0
+Saint Vincent and the Grenadines - 9587.0
+Samoa - 16109.0
+San Marino - 23468.0
+Sao Tome and Principe - 6280.0
+Saudi Arabia - 828410.0
+Scotland - None
+Senegal - 88902.0
+Serbia - 2477970.0
+Seychelles - 50665.0
+Sierra Leone - 7760.0
+Singapore - 2220999.0
+Sint Maarten (Dutch part) - None
+Slovakia - 2661944.0
+Slovenia - 1323216.0
+Solomon Islands - 24575.0
+Somalia - 27322.0
+South Africa - 4057211.0
+South Korea - 30325483.0
+South Sudan - 18368.0
+Spain - 13740531.0
+Sri Lanka - 672005.0
+Sudan - 63759.0
+Suriname - 82227.0
+Sweden - 2696168.0
+Switzerland - 4408833.0
+Syria - 57453.0
+Taiwan - 9754006.0
+Tajikistan - 17786.0
+Tanzania - 42717.0
+Thailand - 4727236.0
+Timor - 23416.0
+Togo - 39358.0
+Tokelau - None
+Tonga - 16795.0
+Trinidad and Tobago - 187908.0
+Tunisia - 1150477.0
+Turkey - 17042722.0
+Turkmenistan - None
+Turks and Caicos Islands - 6537.0
+Tuvalu - 2828.0
+Uganda - 170400.0
+Ukraine - 5686636.0
+United Arab Emirates - 1050127.0
+United Kingdom - 24315983.0
+United States - 102830381.0
+United States Virgin Islands - None
+Upper middle income - 144335408.0
+Uruguay - 1033265.0
+Uzbekistan - 250717.0
+Vanuatu - 12014.0
+Vatican - 29.0
+Venezuela - 551673.0
+Vietnam - 11526627.0
+Wales - None
+Wallis and Futuna - 3427.0
+Western Sahara - None
+Yemen - 11945.0
+Zambia - 342114.0
+Zimbabwe - 263083.0
+Afghanistan - 208771.0
+Albania - 334229.0
+Algeria - 271406.0
+Andorra - 47860.0
+Angola - 105184.0
+Anguilla - 3904.0
+Antigua and Barbuda - 9106.0
+Argentina - 10040329.0
+Armenia - 446332.0
+Aruba - 44145.0
+Australia - 11327900.0
+Austria - 5812712.0
+Azerbaijan - 828174.0
+Bahamas - 37491.0
+Bahrain - 700835.0
+Bangladesh - 2037655.0
+Barbados - 106434.0
+Belarus - 994037.0
+Belgium - 4700949.0
+Belize - 70697.0
+Benin - 27990.0
+Bermuda - 18785.0
+Bhutan - 62608.0
+Bolivia - 1190511.0
+Bonaire Sint Eustatius and Saba - 11797.0
+Bosnia and Herzegovina - 401465.0
+Botswana - 329494.0
+Brazil - 36905201.0
+British Virgin Islands - 7305.0
+Brunei - 276825.0
+Bulgaria - 1295789.0
+Burkina Faso - 22025.0
+Burundi - 53574.0
+Cambodia - 138700.0
+Cameroon - 123993.0
+Canada - 4578306.0
+Cape Verde - 63235.0
+Cayman Islands - 31472.0
+Central African Republic - 15368.0
+Chad - 7652.0
+Chile - 5133941.0
+China - 2023904.0
+Colombia - 6355637.0
+Comoros - 8992.0
+Congo - 25375.0
+Cook Islands - 7020.0
+Costa Rica - 1190377.0
+Cote d'Ivoire - 88037.0
+Croatia - 1268067.0
+Cuba - 1112502.0
+Curacao - 45986.0
+Cyprus - 644160.0
+Czechia - 4593923.0
+Democratic Republic of Congo - 95585.0
+Denmark - 3401091.0
+Djibouti - 15690.0
+Dominica - 15760.0
+Dominican Republic - 660339.0
+Ecuador - 1052007.0
+Egypt - 515666.0
+El Salvador - 201785.0
+England - None
+Equatorial Guinea - 17212.0
+Eritrea - 10189.0
+Estonia - 614215.0
+Eswatini - 74143.0
+Ethiopia - 499738.0
+European Union - 183217843.0
+Faeroe Islands - 34658.0
+Falkland Islands - 1930.0
+Fiji - 68864.0
+Finland - 1460857.0
+France - 39595844.0
+French Polynesia - 77957.0
+Gabon - 48981.0
+Gambia - 12586.0
+Georgia - 1818861.0
+Germany - 37893892.0
+Ghana - 171140.0
+Gibraltar - 20399.0
+Greece - 5548487.0
+Greenland - 11971.0
+Grenada - 19680.0
+Guam - None
+Guatemala - 1230934.0
+Guernsey - None
+Guinea - 38240.0
+Guinea-Bissau - 8947.0
+Guyana - 73003.0
+Haiti - 34076.0
+High income - 428672371.0
+Honduras - 471224.0
+Hong Kong - 2876106.0
+Hungary - 2193272.0
+Iceland - 208839.0
+India - 44685087.0
+Indonesia - 6732179.0
+Iran - 7565253.0
+Iraq - 2465545.0
+Ireland - 1701617.0
+Isle of Man - 38008.0
+Israel - 4790244.0
+Italy - 25488166.0
+Jamaica - 153905.0
+Japan - 32901767.0
+Jersey - None
+Jordan - 1746997.0
+Kazakhstan - 1496549.0
+Kenya - 342817.0
+Kiribati - 5008.0
+Kosovo - 272675.0
+Kuwait - 662858.0
+Kyrgyzstan - 206599.0
+Laos - 217998.0
+Latvia - 975556.0
+Lebanon - 1229915.0
+Lesotho - 34790.0
+Liberia - 8065.0
+Libya - 507166.0
+Liechtenstein - 21372.0
+Lithuania - 1299273.0
+Low income - 2283856.0
+Lower middle income - 97112763.0
+Luxembourg - 315268.0
+Macao - 3547.0
+Madagascar - 67842.0
+Malawi - 88559.0
+Malaysia - 5038812.0
+Maldives - 185721.0
+Mali - 32818.0
+Malta - 117166.0
+Marshall Islands - 15584.0
+Mauritania - 63667.0
+Mauritius - 294915.0
+Mexico - 7400848.0
+Micronesia (country) - 22676.0
+Moldova - 599578.0
+Monaco - 16095.0
+Mongolia - 1007886.0
+Montenegro - 286729.0
+Montserrat - 1403.0
+Morocco - 1272323.0
+Mozambique - 232819.0
+Myanmar - 633859.0
+Namibia - 170741.0
+Nauru - 4815.0
+Nepal - 1001110.0
+Netherlands - 8595902.0
+New Caledonia - 79996.0
+New Zealand - 2191962.0
+Nicaragua - 15612.0
+Niger - 9508.0
+Nigeria - 266463.0
+Niue - None
+North Korea - 1.0
+North Macedonia - 346533.0
+Northern Cyprus - None
+Northern Ireland - None
+Northern Mariana Islands - None
+Norway - 1478247.0
+Oman - 399449.0
+Pakistan - 1576464.0
+Palau - 5987.0
+Palestine - 703228.0
+Panama - 1030214.0
+Papua New Guinea - 46776.0
+Paraguay - 806662.0
+Peru - 4483236.0
+Philippines - 4074299.0
+Pitcairn - None
+Poland - 6387048.0
+Portugal - 5564925.0
+Puerto Rico - None
+Qatar - 492925.0
+Romania - 3327805.0
+Russia - 21725309.0
+Rwanda - 133090.0
+Saint Helena - 2166.0
+Saint Kitts and Nevis - 6592.0
+Saint Lucia - 29882.0
+Saint Pierre and Miquelon - 3452.0
+Saint Vincent and the Grenadines - 9587.0
+Samoa - 16109.0
+San Marino - 23468.0
+Sao Tome and Principe - 6280.0
+Saudi Arabia - 828410.0
+Scotland - None
+Senegal - 88902.0
+Serbia - 2477970.0
+Seychelles - 50665.0
+Sierra Leone - 7760.0
+Singapore - 2220999.0
+Sint Maarten (Dutch part) - None
+Slovakia - 2661944.0
+Slovenia - 1323216.0
+Solomon Islands - 24575.0
+Somalia - 27322.0
+South Africa - 4057211.0
+South Korea - 30325483.0
+South Sudan - 18368.0
+Spain - 13740531.0
+Sri Lanka - 672005.0
+Sudan - 63759.0
+Suriname - 82227.0
+Sweden - 2696168.0
+Switzerland - 4408833.0
+Syria - 57453.0
+Taiwan - 9754006.0
+Tajikistan - 17786.0
+Tanzania - 42717.0
+Thailand - 4727236.0
+Timor - 23416.0
+Togo - 39358.0
+Tokelau - None
+Tonga - 16795.0
+Trinidad and Tobago - 187908.0
+Tunisia - 1150477.0
+Turkey - 17042722.0
+Turkmenistan - None
+Turks and Caicos Islands - 6537.0
+Tuvalu - 2828.0
+Uganda - 170400.0
+Ukraine - 5686636.0
+United Arab Emirates - 1050127.0
+United Kingdom - 24315983.0
+United States - 102830381.0
+United States Virgin Islands - None
+Upper middle income - 144335408.0
+Uruguay - 1033265.0
+Uzbekistan - 250717.0
+Vanuatu - 12014.0
+Vatican - 29.0
+Venezuela - 551673.0
+Vietnam - 11526627.0
+Wales - None
+Wallis and Futuna - 3427.0
+Western Sahara - None
+Yemen - 11945.0
+Zambia - 342114.0
+Zimbabwe - 263083.0
+Afghanistan - 208771.0
+Albania - 334229.0
+Algeria - 271406.0
+Andorra - 47860.0
+Angola - 105184.0
+Anguilla - 3904.0
+Antigua and Barbuda - 9106.0
+Argentina - 10040329.0
+Armenia - 446332.0
+Aruba - 44145.0
+Australia - 11327900.0
+Austria - 5812712.0
+Azerbaijan - 828174.0
+Bahamas - 37491.0
+Bahrain - 700835.0
+Bangladesh - 2037655.0
+Barbados - 106434.0
+Belarus - 994037.0
+Belgium - 4700949.0
+Belize - 70697.0
+Benin - 27990.0
+Bermuda - 18785.0
+Bhutan - 62608.0
+Bolivia - 1190511.0
+Bonaire Sint Eustatius and Saba - 11797.0
+Bosnia and Herzegovina - 401465.0
+Botswana - 329494.0
+Brazil - 36905201.0
+British Virgin Islands - 7305.0
+Brunei - 276825.0
+Bulgaria - 1295789.0
+Burkina Faso - 22025.0
+Burundi - 53574.0
+Cambodia - 138700.0
+Cameroon - 123993.0
+Canada - 4578306.0
+Cape Verde - 63235.0
+Cayman Islands - 31472.0
+Central African Republic - 15368.0
+Chad - 7652.0
+Chile - 5133941.0
+China - 2023904.0
+Colombia - 6355637.0
+Comoros - 8992.0
+Congo - 25375.0
+Cook Islands - 7020.0
+Costa Rica - 1190377.0
+Cote d'Ivoire - 88037.0
+Croatia - 1268067.0
+Cuba - 1112502.0
+Curacao - 45986.0
+Cyprus - 644160.0
+Czechia - 4593923.0
+Democratic Republic of Congo - 95585.0
+Denmark - 3401091.0
+Djibouti - 15690.0
+Dominica - 15760.0
+Dominican Republic - 660339.0
+Ecuador - 1052007.0
+Egypt - 515666.0
+El Salvador - 201785.0
+England - None
+Equatorial Guinea - 17212.0
+Eritrea - 10189.0
+Estonia - 614215.0
+Eswatini - 74143.0
+Ethiopia - 499738.0
+European Union - 183217843.0
+Faeroe Islands - 34658.0
+Falkland Islands - 1930.0
+Fiji - 68864.0
+Finland - 1460857.0
+France - 39595844.0
+French Polynesia - 77957.0
+Gabon - 48981.0
+Gambia - 12586.0
+Georgia - 1818861.0
+Germany - 37893892.0
+Ghana - 171140.0
+Gibraltar - 20399.0
+Greece - 5548487.0
+Greenland - 11971.0
+Grenada - 19680.0
+Guam - None
+Guatemala - 1230934.0
+Guernsey - None
+Guinea - 38240.0
+Guinea-Bissau - 8947.0
+Guyana - 73003.0
+Haiti - 34076.0
+High income - 428672371.0
+Honduras - 471224.0
+Hong Kong - 2876106.0
+Hungary - 2193272.0
+Iceland - 208839.0
+India - 44685087.0
+Indonesia - 6732179.0
+Iran - 7565253.0
+Iraq - 2465545.0
+Ireland - 1701617.0
+Isle of Man - 38008.0
+Israel - 4790244.0
+Italy - 25488166.0
+Jamaica - 153905.0
+Japan - 32901767.0
+Jersey - None
+Jordan - 1746997.0
+Kazakhstan - 1496549.0
+Kenya - 342817.0
+Kiribati - 5008.0
+Kosovo - 272675.0
+Kuwait - 662858.0
+Kyrgyzstan - 206599.0
+Laos - 217998.0
+Latvia - 975556.0
+Lebanon - 1229915.0
+Lesotho - 34790.0
+Liberia - 8065.0
+Libya - 507166.0
+Liechtenstein - 21372.0
+Lithuania - 1299273.0
+Low income - 2283856.0
+Lower middle income - 97112763.0
+Luxembourg - 315268.0
+Macao - 3547.0
+Madagascar - 67842.0
+Malawi - 88559.0
+Malaysia - 5038812.0
+Maldives - 185721.0
+Mali - 32818.0
+Malta - 117166.0
+Marshall Islands - 15584.0
+Mauritania - 63667.0
+Mauritius - 294915.0
+Mexico - 7400848.0
+Micronesia (country) - 22676.0
+Moldova - 599578.0
+Monaco - 16095.0
+Mongolia - 1007886.0
+Montenegro - 286729.0
+Montserrat - 1403.0
+Morocco - 1272323.0
+Mozambique - 232819.0
+Myanmar - 633859.0
+Namibia - 170741.0
+Nauru - 4815.0
+Nepal - 1001110.0
+Netherlands - 8595902.0
+New Caledonia - 79996.0
+New Zealand - 2191962.0
+Nicaragua - 15612.0
+Niger - 9508.0
+Nigeria - 266463.0
+Niue - None
+North Korea - 1.0
+North Macedonia - 346533.0
+Northern Cyprus - None
+Northern Ireland - None
+Northern Mariana Islands - None
+Norway - 1478247.0
+Oman - 399449.0
+Pakistan - 1576464.0
+Palau - 5987.0
+Palestine - 703228.0
+Panama - 1030214.0
+Papua New Guinea - 46776.0
+Paraguay - 806662.0
+Peru - 4483236.0
+Philippines - 4074299.0
+Pitcairn - None
+Poland - 6387048.0
+Portugal - 5564925.0
+Puerto Rico - None
+Qatar - 492925.0
+Romania - 3327805.0
+Russia - 21725309.0
+Rwanda - 133090.0
+Saint Helena - 2166.0
+Saint Kitts and Nevis - 6592.0
+Saint Lucia - 29882.0
+Saint Pierre and Miquelon - 3452.0
+Saint Vincent and the Grenadines - 9587.0
+Samoa - 16109.0
+San Marino - 23468.0
+Sao Tome and Principe - 6280.0
+Saudi Arabia - 828410.0
+Scotland - None
+Senegal - 88902.0
+Serbia - 2477970.0
+Seychelles - 50665.0
+Sierra Leone - 7760.0
+Singapore - 2220999.0
+Sint Maarten (Dutch part) - None
+Slovakia - 2661944.0
+Slovenia - 1323216.0
+Solomon Islands - 24575.0
+Somalia - 27322.0
+South Africa - 4057211.0
+South Korea - 30325483.0
+South Sudan - 18368.0
+Spain - 13740531.0
+Sri Lanka - 672005.0
+Sudan - 63759.0
+Suriname - 82227.0
+Sweden - 2696168.0
+Switzerland - 4408833.0
+Syria - 57453.0
+Taiwan - 9754006.0
+Tajikistan - 17786.0
+Tanzania - 42717.0
+Thailand - 4727236.0
+Timor - 23416.0
+Togo - 39358.0
+Tokelau - None
+Tonga - 16795.0
+Trinidad and Tobago - 187908.0
+Tunisia - 1150477.0
+Turkey - 17042722.0
+Turkmenistan - None
+Turks and Caicos Islands - 6537.0
+Tuvalu - 2828.0
+Uganda - 170400.0
+Ukraine - 5686636.0
+United Arab Emirates - 1050127.0
+United Kingdom - 24315983.0
+United States - 102830381.0
+United States Virgin Islands - None
+Upper middle income - 144335408.0
+Uruguay - 1033265.0
+Uzbekistan - 250717.0
+Vanuatu - 12014.0
+Vatican - 29.0
+Venezuela - 551673.0
+Vietnam - 11526627.0
+Wales - None
+Wallis and Futuna - 3427.0
+Western Sahara - None
+Yemen - 11945.0
+Zambia - 342114.0
+Zimbabwe - 263083.0
+Afghanistan - 208771.0
+Albania - 334229.0
+Algeria - 271406.0
+Andorra - 47860.0
+Angola - 105184.0
+Anguilla - 3904.0
+Antigua and Barbuda - 9106.0
+Argentina - 10040329.0
+Armenia - 446332.0
+Aruba - 44145.0
+Australia - 11327900.0
+Austria - 5812712.0
+Azerbaijan - 828174.0
+Bahamas - 37491.0
+Bahrain - 700835.0
+Bangladesh - 2037655.0
+Barbados - 106434.0
+Belarus - 994037.0
+Belgium - 4700949.0
+Belize - 70697.0
+Benin - 27990.0
+Bermuda - 18785.0
+Bhutan - 62608.0
+Bolivia - 1190511.0
+Bonaire Sint Eustatius and Saba - 11797.0
+Bosnia and Herzegovina - 401465.0
+Botswana - 329494.0
+Brazil - 36905201.0
+British Virgin Islands - 7305.0
+Brunei - 276825.0
+Bulgaria - 1295789.0
+Burkina Faso - 22025.0
+Burundi - 53574.0
+Cambodia - 138700.0
+Cameroon - 123993.0
+Canada - 4578306.0
+Cape Verde - 63235.0
+Cayman Islands - 31472.0
+Central African Republic - 15368.0
+Chad - 7652.0
+Chile - 5133941.0
+China - 2023904.0
+Colombia - 6355637.0
+Comoros - 8992.0
+Congo - 25375.0
+Cook Islands - 7020.0
+Costa Rica - 1190377.0
+Cote d'Ivoire - 88037.0
+Croatia - 1268067.0
+Cuba - 1112502.0
+Curacao - 45986.0
+Cyprus - 644160.0
+Czechia - 4593923.0
+Democratic Republic of Congo - 95585.0
+Denmark - 3401091.0
+Djibouti - 15690.0
+Dominica - 15760.0
+Dominican Republic - 660339.0
+Ecuador - 1052007.0
+Egypt - 515666.0
+El Salvador - 201785.0
+England - None
+Equatorial Guinea - 17212.0
+Eritrea - 10189.0
+Estonia - 614215.0
+Eswatini - 74143.0
+Ethiopia - 499738.0
+European Union - 183217843.0
+Faeroe Islands - 34658.0
+Falkland Islands - 1930.0
+Fiji - 68864.0
+Finland - 1460857.0
+France - 39595844.0
+French Polynesia - 77957.0
+Gabon - 48981.0
+Gambia - 12586.0
+Georgia - 1818861.0
+Germany - 37893892.0
+Ghana - 171140.0
+Gibraltar - 20399.0
+Greece - 5548487.0
+Greenland - 11971.0
+Grenada - 19680.0
+Guam - None
+Guatemala - 1230934.0
+Guernsey - None
+Guinea - 38240.0
+Guinea-Bissau - 8947.0
+Guyana - 73003.0
+Haiti - 34076.0
+High income - 428672371.0
+Honduras - 471224.0
+Hong Kong - 2876106.0
+Hungary - 2193272.0
+Iceland - 208839.0
+India - 44685087.0
+Indonesia - 6732179.0
+Iran - 7565253.0
+Iraq - 2465545.0
+Ireland - 1701617.0
+Isle of Man - 38008.0
+Israel - 4790244.0
+Italy - 25488166.0
+Jamaica - 153905.0
+Japan - 32901767.0
+Jersey - None
+Jordan - 1746997.0
+Kazakhstan - 1496549.0
+Kenya - 342817.0
+Kiribati - 5008.0
+Kosovo - 272675.0
+Kuwait - 662858.0
+Kyrgyzstan - 206599.0
+Laos - 217998.0
+Latvia - 975556.0
+Lebanon - 1229915.0
+Lesotho - 34790.0
+Liberia - 8065.0
+Libya - 507166.0
+Liechtenstein - 21372.0
+Lithuania - 1299273.0
+Low income - 2283856.0
+Lower middle income - 97112763.0
+Luxembourg - 315268.0
+Macao - 3547.0
+Madagascar - 67842.0
+Malawi - 88559.0
+Malaysia - 5038812.0
+Maldives - 185721.0
+Mali - 32818.0
+Malta - 117166.0
+Marshall Islands - 15584.0
+Mauritania - 63667.0
+Mauritius - 294915.0
+Mexico - 7400848.0
+Micronesia (country) - 22676.0
+Moldova - 599578.0
+Monaco - 16095.0
+Mongolia - 1007886.0
+Montenegro - 286729.0
+Montserrat - 1403.0
+Morocco - 1272323.0
+Mozambique - 232819.0
+Myanmar - 633859.0
+Namibia - 170741.0
+Nauru - 4815.0
+Nepal - 1001110.0
+Netherlands - 8595902.0
+New Caledonia - 79996.0
+New Zealand - 2191962.0
+Nicaragua - 15612.0
+Niger - 9508.0
+Nigeria - 266463.0
+Niue - None
+North Korea - 1.0
+North Macedonia - 346533.0
+Northern Cyprus - None
+Northern Ireland - None
+Northern Mariana Islands - None
+Norway - 1478247.0
+Oman - 399449.0
+Pakistan - 1576464.0
+Palau - 5987.0
+Palestine - 703228.0
+Panama - 1030214.0
+Papua New Guinea - 46776.0
+Paraguay - 806662.0
+Peru - 4483236.0
+Philippines - 4074299.0
+Pitcairn - None
+Poland - 6387048.0
+Portugal - 5564925.0
+Puerto Rico - None
+Qatar - 492925.0
+Romania - 3327805.0
+Russia - 21725309.0
+Rwanda - 133090.0
+Saint Helena - 2166.0
+Saint Kitts and Nevis - 6592.0
+Saint Lucia - 29882.0
+Saint Pierre and Miquelon - 3452.0
+Saint Vincent and the Grenadines - 9587.0
+Samoa - 16109.0
+San Marino - 23468.0
+Sao Tome and Principe - 6280.0
+Saudi Arabia - 828410.0
+Scotland - None
+Senegal - 88902.0
+Serbia - 2477970.0
+Seychelles - 50665.0
+Sierra Leone - 7760.0
+Singapore - 2220999.0
+Sint Maarten (Dutch part) - None
+Slovakia - 2661944.0
+Slovenia - 1323216.0
+Solomon Islands - 24575.0
+Somalia - 27322.0
+South Africa - 4057211.0
+South Korea - 30325483.0
+South Sudan - 18368.0
+Spain - 13740531.0
+Sri Lanka - 672005.0
+Sudan - 63759.0
+Suriname - 82227.0
+Sweden - 2696168.0
+Switzerland - 4408833.0
+Syria - 57453.0
+Taiwan - 9754006.0
+Tajikistan - 17786.0
+Tanzania - 42717.0
+Thailand - 4727236.0
+Timor - 23416.0
+Togo - 39358.0
+Tokelau - None
+Tonga - 16795.0
+Trinidad and Tobago - 187908.0
+Tunisia - 1150477.0
+Turkey - 17042722.0
+Turkmenistan - None
+Turks and Caicos Islands - 6537.0
+Tuvalu - 2828.0
+Uganda - 170400.0
+Ukraine - 5686636.0
+United Arab Emirates - 1050127.0
+United Kingdom - 24315983.0
+United States - 102830381.0
+United States Virgin Islands - None
+Upper middle income - 144335408.0
+Uruguay - 1033265.0
+Uzbekistan - 250717.0
+Vanuatu - 12014.0
+Vatican - 29.0
+Venezuela - 551673.0
+Vietnam - 11526627.0
+Wales - None
+Wallis and Futuna - 3427.0
+Western Sahara - None
+Yemen - 11945.0
+Zambia - 342114.0
+Zimbabwe - 263083.0
+Afghanistan - 208771.0
+Albania - 334229.0
+Algeria - 271406.0
+Andorra - 47860.0
+Angola - 105184.0
+Anguilla - 3904.0
+Antigua and Barbuda - 9106.0
+Argentina - 10040329.0
+Armenia - 446332.0
+Aruba - 44145.0
+Australia - 11327900.0
+Austria - 5812712.0
+Azerbaijan - 828174.0
+Bahamas - 37491.0
+Bahrain - 700835.0
+Bangladesh - 2037655.0
+Barbados - 106434.0
+Belarus - 994037.0
+Belgium - 4700949.0
+Belize - 70697.0
+Benin - 27990.0
+Bermuda - 18785.0
+Bhutan - 62608.0
+Bolivia - 1190511.0
+Bonaire Sint Eustatius and Saba - 11797.0
+Bosnia and Herzegovina - 401465.0
+Botswana - 329494.0
+Brazil - 36905201.0
+British Virgin Islands - 7305.0
+Brunei - 276825.0
+Bulgaria - 1295789.0
+Burkina Faso - 22025.0
+Burundi - 53574.0
+Cambodia - 138700.0
+Cameroon - 123993.0
+Canada - 4578306.0
+Cape Verde - 63235.0
+Cayman Islands - 31472.0
+Central African Republic - 15368.0
+Chad - 7652.0
+Chile - 5133941.0
+China - 2023904.0
+Colombia - 6355637.0
+Comoros - 8992.0
+Congo - 25375.0
+Cook Islands - 7020.0
+Costa Rica - 1190377.0
+Cote d'Ivoire - 88037.0
+Croatia - 1268067.0
+Cuba - 1112502.0
+Curacao - 45986.0
+Cyprus - 644160.0
+Czechia - 4593923.0
+Democratic Republic of Congo - 95585.0
+Denmark - 3401091.0
+Djibouti - 15690.0
+Dominica - 15760.0
+Dominican Republic - 660339.0
+Ecuador - 1052007.0
+Egypt - 515666.0
+El Salvador - 201785.0
+England - None
+Equatorial Guinea - 17212.0
+Eritrea - 10189.0
+Estonia - 614215.0
+Eswatini - 74143.0
+Ethiopia - 499738.0
+European Union - 183217843.0
+Faeroe Islands - 34658.0
+Falkland Islands - 1930.0
+Fiji - 68864.0
+Finland - 1460857.0
+France - 39595844.0
+French Polynesia - 77957.0
+Gabon - 48981.0
+Gambia - 12586.0
+Georgia - 1818861.0
+Germany - 37893892.0
+Ghana - 171140.0
+Gibraltar - 20399.0
+Greece - 5548487.0
+Greenland - 11971.0
+Grenada - 19680.0
+Guam - None
+Guatemala - 1230934.0
+Guernsey - None
+Guinea - 38240.0
+Guinea-Bissau - 8947.0
+Guyana - 73003.0
+Haiti - 34076.0
+High income - 428672371.0
+Honduras - 471224.0
+Hong Kong - 2876106.0
+Hungary - 2193272.0
+Iceland - 208839.0
+India - 44685087.0
+Indonesia - 6732179.0
+Iran - 7565253.0
+Iraq - 2465545.0
+Ireland - 1701617.0
+Isle of Man - 38008.0
+Israel - 4790244.0
+Italy - 25488166.0
+Jamaica - 153905.0
+Japan - 32901767.0
+Jersey - None
+Jordan - 1746997.0
+Kazakhstan - 1496549.0
+Kenya - 342817.0
+Kiribati - 5008.0
+Kosovo - 272675.0
+Kuwait - 662858.0
+Kyrgyzstan - 206599.0
+Laos - 217998.0
+Latvia - 975556.0
+Lebanon - 1229915.0
+Lesotho - 34790.0
+Liberia - 8065.0
+Libya - 507166.0
+Liechtenstein - 21372.0
+Lithuania - 1299273.0
+Low income - 2283856.0
+Lower middle income - 97112763.0
+Luxembourg - 315268.0
+Macao - 3547.0
+Madagascar - 67842.0
+Malawi - 88559.0
+Malaysia - 5038812.0
+Maldives - 185721.0
+Mali - 32818.0
+Malta - 117166.0
+Marshall Islands - 15584.0
+Mauritania - 63667.0
+Mauritius - 294915.0
+Mexico - 7400848.0
+Micronesia (country) - 22676.0
+Moldova - 599578.0
+Monaco - 16095.0
+Mongolia - 1007886.0
+Montenegro - 286729.0
+Montserrat - 1403.0
+Morocco - 1272323.0
+Mozambique - 232819.0
+Myanmar - 633859.0
+Namibia - 170741.0
+Nauru - 4815.0
+Nepal - 1001110.0
+Netherlands - 8595902.0
+New Caledonia - 79996.0
+New Zealand - 2191962.0
+Nicaragua - 15612.0
+Niger - 9508.0
+Nigeria - 266463.0
+Niue - None
+North Korea - 1.0
+North Macedonia - 346533.0
+Northern Cyprus - None
+Northern Ireland - None
+Northern Mariana Islands - None
+Norway - 1478247.0
+Oman - 399449.0
+Pakistan - 1576464.0
+Palau - 5987.0
+Palestine - 703228.0
+Panama - 1030214.0
+Papua New Guinea - 46776.0
+Paraguay - 806662.0
+Peru - 4483236.0
+Philippines - 4074299.0
+Pitcairn - None
+Poland - 6387048.0
+Portugal - 5564925.0
+Puerto Rico - None
+Qatar - 492925.0
+Romania - 3327805.0
+Russia - 21725309.0
+Rwanda - 133090.0
+Saint Helena - 2166.0
+Saint Kitts and Nevis - 6592.0
+Saint Lucia - 29882.0
+Saint Pierre and Miquelon - 3452.0
+Saint Vincent and the Grenadines - 9587.0
+Samoa - 16109.0
+San Marino - 23468.0
+Sao Tome and Principe - 6280.0
+Saudi Arabia - 828410.0
+Scotland - None
+Senegal - 88902.0
+Serbia - 2477970.0
+Seychelles - 50665.0
+Sierra Leone - 7760.0
+Singapore - 2220999.0
+Sint Maarten (Dutch part) - None
+Slovakia - 2661944.0
+Slovenia - 1323216.0
+Solomon Islands - 24575.0
+Somalia - 27322.0
+South Africa - 4057211.0
+South Korea - 30325483.0
+South Sudan - 18368.0
+Spain - 13740531.0
+Sri Lanka - 672005.0
+Sudan - 63759.0
+Suriname - 82227.0
+Sweden - 2696168.0
+Switzerland - 4408833.0
+Syria - 57453.0
+Taiwan - 9754006.0
+Tajikistan - 17786.0
+Tanzania - 42717.0
+Thailand - 4727236.0
+Timor - 23416.0
+Togo - 39358.0
+Tokelau - None
+Tonga - 16795.0
+Trinidad and Tobago - 187908.0
+Tunisia - 1150477.0
+Turkey - 17042722.0
+Turkmenistan - None
+Turks and Caicos Islands - 6537.0
+Tuvalu - 2828.0
+Uganda - 170400.0
+Ukraine - 5686636.0
+United Arab Emirates - 1050127.0
+United Kingdom - 24315983.0
+United States - 102830381.0
+United States Virgin Islands - None
+Upper middle income - 144335408.0
+Uruguay - 1033265.0
+Uzbekistan - 250717.0
+Vanuatu - 12014.0
+Vatican - 29.0
+Venezuela - 551673.0
+Vietnam - 11526627.0
+Wales - None
+Wallis and Futuna - 3427.0
+Western Sahara - None
+Yemen - 11945.0
+Zambia - 342114.0
+Zimbabwe - 263083.0
+Afghanistan - 208771.0
+Albania - 334229.0
+Algeria - 271406.0
+Andorra - 47860.0
+Angola - 105184.0
+Anguilla - 3904.0
+Antigua and Barbuda - 9106.0
+Argentina - 10040329.0
+Armenia - 446332.0
+Aruba - 44145.0
+Australia - 11327900.0
+Austria - 5812712.0
+Azerbaijan - 828174.0
+Bahamas - 37491.0
+Bahrain - 700835.0
+Bangladesh - 2037655.0
+Barbados - 106434.0
+Belarus - 994037.0
+Belgium - 4700949.0
+Belize - 70697.0
+Benin - 27990.0
+Bermuda - 18785.0
+Bhutan - 62608.0
+Bolivia - 1190511.0
+Bonaire Sint Eustatius and Saba - 11797.0
+Bosnia and Herzegovina - 401465.0
+Botswana - 329494.0
+Brazil - 36905201.0
+British Virgin Islands - 7305.0
+Brunei - 276825.0
+Bulgaria - 1295789.0
+Burkina Faso - 22025.0
+Burundi - 53574.0
+Cambodia - 138700.0
+Cameroon - 123993.0
+Canada - 4578306.0
+Cape Verde - 63235.0
+Cayman Islands - 31472.0
+Central African Republic - 15368.0
+Chad - 7652.0
+Chile - 5133941.0
+China - 2023904.0
+Colombia - 6355637.0
+Comoros - 8992.0
+Congo - 25375.0
+Cook Islands - 7020.0
+Costa Rica - 1190377.0
+Cote d'Ivoire - 88037.0
+Croatia - 1268067.0
+Cuba - 1112502.0
+Curacao - 45986.0
+Cyprus - 644160.0
+Czechia - 4593923.0
+Democratic Republic of Congo - 95585.0
+Denmark - 3401091.0
+Djibouti - 15690.0
+Dominica - 15760.0
+Dominican Republic - 660339.0
+Ecuador - 1052007.0
+Egypt - 515666.0
+El Salvador - 201785.0
+England - None
+Equatorial Guinea - 17212.0
+Eritrea - 10189.0
+Estonia - 614215.0
+Eswatini - 74143.0
+Ethiopia - 499738.0
+European Union - 183217843.0
+Faeroe Islands - 34658.0
+Falkland Islands - 1930.0
+Fiji - 68864.0
+Finland - 1460857.0
+France - 39595844.0
+French Polynesia - 77957.0
+Gabon - 48981.0
+Gambia - 12586.0
+Georgia - 1818861.0
+Germany - 37893892.0
+Ghana - 171140.0
+Gibraltar - 20399.0
+Greece - 5548487.0
+Greenland - 11971.0
+Grenada - 19680.0
+Guam - None
+Guatemala - 1230934.0
+Guernsey - None
+Guinea - 38240.0
+Guinea-Bissau - 8947.0
+Guyana - 73003.0
+Haiti - 34076.0
+High income - 428672371.0
+Honduras - 471224.0
+Hong Kong - 2876106.0
+Hungary - 2193272.0
+Iceland - 208839.0
+India - 44685087.0
+Indonesia - 6732179.0
+Iran - 7565253.0
+Iraq - 2465545.0
+Ireland - 1701617.0
+Isle of Man - 38008.0
+Israel - 4790244.0
+Italy - 25488166.0
+Jamaica - 153905.0
+Japan - 32901767.0
+Jersey - None
+Jordan - 1746997.0
+Kazakhstan - 1496549.0
+Kenya - 342817.0
+Kiribati - 5008.0
+Kosovo - 272675.0
+Kuwait - 662858.0
+Kyrgyzstan - 206599.0
+Laos - 217998.0
+Latvia - 975556.0
+Lebanon - 1229915.0
+Lesotho - 34790.0
+Liberia - 8065.0
+Libya - 507166.0
+Liechtenstein - 21372.0
+Lithuania - 1299273.0
+Low income - 2283856.0
+Lower middle income - 97112763.0
+Luxembourg - 315268.0
+Macao - 3547.0
+Madagascar - 67842.0
+Malawi - 88559.0
+Malaysia - 5038812.0
+Maldives - 185721.0
+Mali - 32818.0
+Malta - 117166.0
+Marshall Islands - 15584.0
+Mauritania - 63667.0
+Mauritius - 294915.0
+Mexico - 7400848.0
+Micronesia (country) - 22676.0
+Moldova - 599578.0
+Monaco - 16095.0
+Mongolia - 1007886.0
+Montenegro - 286729.0
+Montserrat - 1403.0
+Morocco - 1272323.0
+Mozambique - 232819.0
+Myanmar - 633859.0
+Namibia - 170741.0
+Nauru - 4815.0
+Nepal - 1001110.0
+Netherlands - 8595902.0
+New Caledonia - 79996.0
+New Zealand - 2191962.0
+Nicaragua - 15612.0
+Niger - 9508.0
+Nigeria - 266463.0
+Niue - None
+North Korea - 1.0
+North Macedonia - 346533.0
+Northern Cyprus - None
+Northern Ireland - None
+Northern Mariana Islands - None
+Norway - 1478247.0
+Oman - 399449.0
+Pakistan - 1576464.0
+Palau - 5987.0
+Palestine - 703228.0
+Panama - 1030214.0
+Papua New Guinea - 46776.0
+Paraguay - 806662.0
+Peru - 4483236.0
+Philippines - 4074299.0
+Pitcairn - None
+Poland - 6387048.0
+Portugal - 5564925.0
+Puerto Rico - None
+Qatar - 492925.0
+Romania - 3327805.0
+Russia - 21725309.0
+Rwanda - 133090.0
+Saint Helena - 2166.0
+Saint Kitts and Nevis - 6592.0
+Saint Lucia - 29882.0
+Saint Pierre and Miquelon - 3452.0
+Saint Vincent and the Grenadines - 9587.0
+Samoa - 16109.0
+San Marino - 23468.0
+Sao Tome and Principe - 6280.0
+Saudi Arabia - 828410.0
+Scotland - None
+Senegal - 88902.0
+Serbia - 2477970.0
+Seychelles - 50665.0
+Sierra Leone - 7760.0
+Singapore - 2220999.0
+Sint Maarten (Dutch part) - None
+Slovakia - 2661944.0
+Slovenia - 1323216.0
+Solomon Islands - 24575.0
+Somalia - 27322.0
+South Africa - 4057211.0
+South Korea - 30325483.0
+South Sudan - 18368.0
+Spain - 13740531.0
+Sri Lanka - 672005.0
+Sudan - 63759.0
+Suriname - 82227.0
+Sweden - 2696168.0
+Switzerland - 4408833.0
+Syria - 57453.0
+Taiwan - 9754006.0
+Tajikistan - 17786.0
+Tanzania - 42717.0
+Thailand - 4727236.0
+Timor - 23416.0
+Togo - 39358.0
+Tokelau - None
+Tonga - 16795.0
+Trinidad and Tobago - 187908.0
+Tunisia - 1150477.0
+Turkey - 17042722.0
+Turkmenistan - None
+Turks and Caicos Islands - 6537.0
+Tuvalu - 2828.0
+Uganda - 170400.0
+Ukraine - 5686636.0
+United Arab Emirates - 1050127.0
+United Kingdom - 24315983.0
+United States - 102830381.0
+United States Virgin Islands - None
+Upper middle income - 144335408.0
+Uruguay - 1033265.0
+Uzbekistan - 250717.0
+Vanuatu - 12014.0
+Vatican - 29.0
+Venezuela - 551673.0
+Vietnam - 11526627.0
+Wales - None
+Wallis and Futuna - 3427.0
+Western Sahara - None
+Yemen - 11945.0
+Zambia - 342114.0
+Zimbabwe - 263083.0

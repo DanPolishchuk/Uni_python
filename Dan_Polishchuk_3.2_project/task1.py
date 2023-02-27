@@ -66,7 +66,8 @@ csv_db = "C:\\Uni_tasks\\Dan_Polishchuk_3.2_project\\IMD_Top_100.db"
 if __name__ == "__main__":
 
     try:
-        Digga = DB(csv_file, csv_db)
+        Digga = DB(txt_file, txt_db)
+        Digga.insert_txt_data()
         Digga.type_definition()
 
     except ValueError as e:
