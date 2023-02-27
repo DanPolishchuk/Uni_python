@@ -2,7 +2,7 @@ from telebot import TeleBot
 from telebot.types import InlineKeyboardButton, ReplyKeyboardMarkup, InlineKeyboardMarkup
 from sqlite3 import connect
 
-token = "6211704099:AAEym56GVji_sTHvAvhd_o1V1Mltfge3eOg"
+token = "Your token"
 bot = TeleBot(token)
 news_type = 0
 news_types = ["1","2","3","4","5","6","7"]

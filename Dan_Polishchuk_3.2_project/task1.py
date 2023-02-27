@@ -69,7 +69,7 @@ if __name__ == "__main__":
         Digga = DB(txt_file, txt_db)
         Digga.insert_txt_data()
         Digga.type_definition()
-
+ 
     except ValueError as e:
         print(e)
 
