@@ -1,13 +1,15 @@
 from telebot import TeleBot
 from telebot.types import InlineKeyboardButton, ReplyKeyboardMarkup, InlineKeyboardMarkup
 from sqlite3 import connect
+from threading import Thread
+from newsletter import *
 
-token = "Your token"
+token = "6211704099:AAEym56GVji_sTHvAvhd_o1V1Mltfge3eOg"
 bot = TeleBot(token)
 news_type = 0
 news_types = ["1","2","3","4","5","6","7"]
 
-conn = connect("./bot_users.db", check_same_thread=False)
+conn = connect("bot_users.db", check_same_thread=False)
 cur = conn.cursor()
 
 def create_tables():
@@ -141,12 +143,21 @@ def registration(message):
                             \n/resume - if you want to receive news again\n/support - if you need to contact technical support")
 
 #####################################################################################################################################################
-
+processes = []
 if __name__ == "__main__":
     
     try:
-        create_tables()
-        bot.polling()
+        thread1 = Thread(target=create_tables)
+        thread2 = Thread(target=sending_news)
+        thread3 = Thread(target=bot.polling)
+
+        thread1.start()
+        thread2.start()
+        thread3.start()
+        thread1.join()
+        thread2.join()
+        thread3.join()
+        
     
     except ValueError as e:
         print(e)
