@@ -1,39 +1,43 @@
-from main import bot, cur
+from main import bot, stop_list, chat_ids, users
 from bs4 import BeautifulSoup as bs
 from requests import get
 from time import sleep
 
 def sending_news():
     while True:
-        cur.execute("""SELECT chat_id FROM Users_data""")
-        chat_ids = cur.fetchall()
-        cur.execute("""SELECT chat_ids FROM Stop_list""")
-        stop_list = cur.fetchall()
-        for id in chat_ids:
-            if id not in stop_list:
-                cur.execute(f"""SELECT news_type FROM Users_data
-                                WHERE chat_id="{id[0]}" """)
-                type_news = cur.fetchall()
-                if type_news[0][0] == "1":
-                    sport_news(id[0])
-                elif type_news[0][0] == "2":
-                    crypto_news(id[0])
-                elif type_news[0][0] == "3":
-                    politics_news(id[0])
-                elif type_news[0][0] == "4":
-                    sport_news(id[0])
-                    crypto_news(id[0])
-                elif type_news[0][0] == "5":
-                    sport_news(id[0])
-                    politics_news(id[0])
-                elif type_news[0][0] == "6":
-                    crypto_news(id[0])
-                    politics_news(id[0])
-                elif type_news[0][0] == "7":
-                    sport_news(id[0])
-                    crypto_news(id[0])
-                    politics_news(id[0])
-        sleep(14400.0)
+        for id in chat_ids():
+            if id not in stop_list():
+
+                type = users.find({"Chat id": id})
+                type_news = type["News type"]
+                
+                if type_news == 1:
+                    sport_news(id)
+                
+                elif type_news == 2:
+                    crypto_news(id)
+                
+                elif type_news == 3:
+                    politics_news(id)
+                
+                elif type_news == 4:
+                    sport_news(id)
+                    crypto_news(id)
+                
+                elif type_news == 5:
+                    sport_news(id)
+                    politics_news(id)
+                
+                elif type_news == 6:
+                    crypto_news(id)
+                    politics_news(id)
+                
+                elif type_news == 7:
+                    sport_news(id)
+                    crypto_news(id)
+                    politics_news(id)
+        
+        sleep(60.0)
 
 
 def sport_news(id):
@@ -64,19 +68,3 @@ def politics_news(id):
     news = soup.find("div", class_="SectionWrapper-content").find_all("a", class_="Card-title", limit=3)
     for i in news:
         bot.send_message(id, text=(i.get_text()+ "\nLink = "+i.get("href")+ "\n"))
-
-
-
-if __name__ == "__main__":
-    
-    try:
-        sending_news()
-    
-    except ValueError as e:
-        print(e)
-    except TypeError as e:
-        print(e)
-    except IndexError as e:
-        print(e)
-    except ConnectionError as e:
-        print(e)

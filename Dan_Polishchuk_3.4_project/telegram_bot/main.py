@@ -1,38 +1,31 @@
 from telebot import TeleBot
 from telebot.types import InlineKeyboardButton, ReplyKeyboardMarkup, InlineKeyboardMarkup
-from sqlite3 import connect
 from threading import Thread
-from newsletter import *
+from bs4 import BeautifulSoup as bs
+from requests import get
+from time import sleep
+from pymongo import MongoClient, cursor
+
+client = MongoClient("localhost", 27017)
+db = client["Junggeselle_db"]
+users = db["Users_data"]
+inactive_users =db["Stop_list"]
 
 token = "6211704099:AAEym56GVji_sTHvAvhd_o1V1Mltfge3eOg"
 bot = TeleBot(token)
 news_type = 0
 news_types = ["1","2","3","4","5","6","7"]
 
-conn = connect("bot_users.db", check_same_thread=False)
-cur = conn.cursor()
-
-def create_tables():
-    cur.execute("""CREATE TABLE IF NOT EXISTS Users_data(
-                first_name,
-                last_name,
-                age,
-                news_type,
-                country,                                                    
-                chat_id
-            )""")                                                   # creates 2 tables in bot_users.db
-    cur.execute("""CREATE TABLE IF NOT EXISTS Stop_list(
-                chat_ids
-    )""")
 
 def stop_list():
-    cur.execute("""SELECT chat_ids FROM Stop_list""")               # getting ids of people that do not want receiving news anymore
-    stop_list = cur.fetchall()
+    query = inactive_users.find({}, {"Chat id": 1, "_id": 0})
+    stop_list = [doc["Chat id"] for doc in query]                     # getting ids of people that do not want receiving news anymore
     return stop_list
 
+
 def chat_ids():
-    cur.execute("""SELECT chat_id FROM Users_data""")
-    chat_ids = cur.fetchall()                                       # get chat ids all registered users 
+    query = users.find({}, {"Chat id": 1, "_id": 0})
+    chat_ids = [doc["Chat id"] for doc in query]                                      # get chat ids all registered users 
     return chat_ids
 
 ############################################################## Commands ######################################################################################
@@ -54,7 +47,7 @@ def launch(message):
 def stop(message):
     id = message.chat.id
     
-    if (f"{id}",) not in stop_list(): 
+    if id not in stop_list(): 
         options_menu = InlineKeyboardMarkup()
         option1 = InlineKeyboardButton(text="yes", callback_data="Stop the bot")
         option2 = InlineKeyboardButton(text="no", callback_data="Dont`t stop the bot")
@@ -68,7 +61,7 @@ def stop(message):
 def resume(message):
     id = message.chat.id
     
-    if (f"{id}",) in stop_list():
+    if id in stop_list():
         options_menu = InlineKeyboardMarkup()
         option1 = InlineKeyboardButton(text="yes", callback_data="Restart the bot")
         option2 = InlineKeyboardButton(text="no", callback_data="Dont`t restart the bot")
@@ -97,18 +90,15 @@ def callback_inline(call):
     
     if call.data == "Stop the bot":
         bot.send_message(call.from_user.id, "Ok, i got you, if you would like to continue receiving news, type /resume command")
-        cur.execute(f"""INSERT INTO Stop_list (chat_ids)
-                        VALUES("{call.from_user.id}")""")
-        conn.commit()
+        document = {"Chat id": call.from_user.id}
+        inactive_users.insert_one(document) 
 
     elif call.data == "Dont`t stop the bot":
         bot.send_message(call.from_user.id, "Thank you for staying with me")
     
     elif call.data == "Restart the bot":
+        inactive_users.delete_one({"Chat id": call.from_user.id})
         bot.send_message(call.from_user.id, "Cool that you are again with me, hope you are enjoying while using the bot)")
-        cur.execute(f"""DELETE FROM Stop_list
-                        WHERE chat_ids = "{call.from_user.id}"; """)
-        conn.commit()
 
     elif call.data == "Dont`t restart the bot":
         bot.send_message(call.from_user.id, "Alright, if you would like to continue receiving news, hit /resume command")
@@ -122,7 +112,7 @@ def callback_inline(call):
 def registration(message):
     id = message.chat.id
     
-    if (f"{id}",) not in chat_ids():
+    if id not in chat_ids():
         if message.text in news_types:
             global news_type
             news_type = message.text
@@ -134,36 +124,102 @@ def registration(message):
                                 \n\nThe following commands are available:\n/stop - if you want to stop the bot\
                                 \n/resume - if you want to receive news again\n/support - if you need to contact technical support")
             data = message.text.split(" ")
-            cur.execute(f"""INSERT INTO Users_data (first_name, last_name, age, news_type, country, chat_id)
-                            VALUES("{data[0]}", "{data[1]}", "{data[2]}", "{news_type}", "{data[3]}", "{id}")""")
-            conn.commit()
+            
+            document = {"First name": f"{data[0]}",
+                        "Last Name": f"{data[1]}",
+                        "Age": f"{data[2]}",
+                        "News type": news_type,
+                        "Country": f"{data[3]}",
+                        "Chat id": id}
+            users.insert_one(document)
 
     else:
         bot.send_message(id, "You are already registered\n\nThe following commands are available:\n/stop - if you want to stop the bot\
                             \n/resume - if you want to receive news again\n/support - if you need to contact technical support")
 
-#####################################################################################################################################################
-processes = []
+################################################################ Getting news #####################################################################################
+
+def sending_news():
+    while True:
+        for id in chat_ids():
+            if id not in stop_list():
+
+                query = users.find({"Chat id": id}, {"News type": 1, "_id": 0})
+                type_news = [doc["News type"] for doc in query]
+                
+                if type_news[0] == "1":
+                    sport_news(id)
+                
+                elif type_news[0] == "2":
+                    crypto_news(id)
+                
+                elif type_news[0] == "3":
+                    politics_news(id)
+                
+                elif type_news[0] == "4":
+                    sport_news(id)
+                    crypto_news(id)
+                
+                elif type_news[0] == "5":
+                    sport_news(id)
+                    politics_news(id)
+                
+                elif type_news[0] == "6":
+                    crypto_news(id)
+                    politics_news(id)
+                
+                elif type_news[0] == "7":
+                    sport_news(id)
+                    crypto_news(id)
+                    politics_news(id)
+        
+        sleep(14400.0)
+
+#######################################################################################################################################################3
+
+def sport_news(id):
+    url = "https://www.nba.com/news"
+    req = get(url)
+    soup = bs(req.text, "html.parser")
+    news = soup.find("div", class_="NewsView_dazn__ZF2K2").find_all("div", class_="ArticleTile_tileMainContent__c_bU1", limit=3)
+    for i in news:
+        bot.send_message(id, text=(i.find("h3", class_="Text_text__I2GnQ ArticleTile_tileTitle__aA8g7").get_text()+ "\n"+
+            i.find("p", class_="Text_text__I2GnQ ArticleTile_tileSub__kiMA0").get_text()+ 
+            "\nLink = https://www.nba.com"+i.find("a").get("href"), "\n"))
+
+def crypto_news(id):
+    url = "https://cryptonews.com/news/"
+    req = get(url)
+    soup = bs(req.text, "html.parser")
+    news = soup.find("section", class_="category_contents_details").find_all("article", class_="mb-15 mb-sm-30 article-item", limit=3)
+    for i in news:
+        bot.send_message(id, text=(i.find("a", class_="article__title article__title--lg article__title--featured mb-20").get_text()+ "\n"+
+            i.find("div", class_="mb-25 d-none d-md-block").get_text()+
+            "\nLink = https://cryptonews.com"+i.find("a").get("href")+ "\n"))
+
+
+def politics_news(id):
+    url = "https://www.cnbc.com/politics/"
+    req = get(url)
+    soup = bs(req.text, "html.parser")
+    news = soup.find("div", class_="SectionWrapper-content").find_all("a", class_="Card-title", limit=3)
+    for i in news:
+        bot.send_message(id, text=(i.get_text()+ "\nLink = "+i.get("href")+ "\n"))
+
+###################################################################################################################################################################
+
 if __name__ == "__main__":
     
     try:
-        thread1 = Thread(target=create_tables)
-        thread2 = Thread(target=sending_news)
-        thread3 = Thread(target=bot.polling)
+        thread1 = Thread(target=sending_news)
+        thread2 = Thread(target=bot.polling)
 
         thread1.start()
         thread2.start()
-        thread3.start()
         thread1.join()
         thread2.join()
-        thread3.join()
         
     
-    except ValueError as e:
+    except Exception as e:
         print(e)
-    except TypeError as e:
-        print(e)
-    except IndexError as e:
-        print(e)
-    except ConnectionError as e:
-        print(e)
+    
