@@ -1,4 +1,3 @@
-import sqlite3
 from sqlite3 import connect
 from prettytable import from_db_cursor
 from voice import DBMS_speak
