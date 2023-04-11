@@ -1,0 +1,36 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SneakersHub</title>
+    <link rel="stylesheet" href="{% static 'sneakers_hub_shop/style.css' %}">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#">About us</a></li>
+                <li><a href="#">Contacts</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h1>Available kicks</h1>
+        <div class="products">
+            {% for product in products %}
+            <div class="product">
+                <img src={{product.image}} alt={{product.name}}>
+                <h2>{{product.name}}</h2>
+                <p>Price: {{product.price}}</p>
+                <a href="{% url 'order_form' %}?model={{product.name}}&price={{product.price}}">Buy</a>
+            </div>
+            {% endfor %}
+        </div>
+    </main>
+    <footer>
+        <p>© 2023 SneakersHub</p>
+    </footer>
+</body>
+</html>

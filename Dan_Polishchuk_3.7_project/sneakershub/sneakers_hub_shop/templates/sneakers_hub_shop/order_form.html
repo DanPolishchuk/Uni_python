@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SneakersHub Order Form</title>
+    <style>
+        body {
+            background-image: url("https://i.pinimg.com/originals/27/16/6c/27166c01eaab57645d71f77b00b31b2e.jpg");
+            background-size: cover;
+            background-position: center;
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        header {
+            text-align: center;
+            padding: 50px;
+            color: #ffffff;
+            font-size: 2em;
+            -webkit-text-stroke: 2px black;
+        }
+
+        main {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 80vh;
+        }
+
+        form {
+            border: 3px solid #ccc;
+            padding: 30px;
+            background-color: white;
+            border-radius: 20px;
+            width: 75%;
+        }
+
+        input[type="text"],
+        input[type="email"] {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 20px;
+            box-sizing: border-box;
+            border: 2px solid #ccc;
+            border-radius: 4px;
+            font-size: 1em;
+        }
+
+        input[type="submit"] {
+            background-color: #800080;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 1em;
+        }
+
+        footer {
+            background-color: #800080;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>SneakersHub Order Form</h1>
+    </header>
+
+    <main>
+        <form method="POST">
+            {% csrf_token %}
+
+            <div>
+                <label>Model:</label>
+                <span>{{ model }}</span>
+            </div>
+
+            <div>
+                <label>Price:</label>
+                <span>{{ price }}</span>
+            </div>
+
+            <label for="size">Shoe size:</label>
+            <input type="text" id="size" name="shoe size" required>
+
+            <label for="fname">First name:</label>
+            <input type="text" id="fname" name="first name" required>
+
+            <label for="lname">Last name:</label>
+            <input type="text" id="lname" name="last name" required>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="address">Address:</label>
+            <input type="text" id="address" name="address" required>
+
+            <input type="submit" value="Submit">
+        </form>
+    </main>
+
+    <footer>
+        <p>© 2023 SneakersHub</p>
+    </footer>
+</body>
+</html>
